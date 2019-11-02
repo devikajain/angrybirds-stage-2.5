@@ -1,2 +1,2 @@
-# angrybirds-stage-2.5
-today we have added images and created the base class
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
